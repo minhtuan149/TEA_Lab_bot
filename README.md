@@ -1,1 +1,3 @@
 New custom modified version of https://github.com/airdropinsiders/Tea-Auto-Bot/tree/main for multiple wallets TEA
+
+** Add your *List of Private Key* to *keys.txt* to working...
